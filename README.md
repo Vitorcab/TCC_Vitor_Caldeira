@@ -4,7 +4,7 @@ Simulador em Python 3 desenvolvido no Trabalho de Conclusão de Curso de Engenha
 
 > **BASTOS, Vítor Caldeira de Andrada.** *Otimização e análise termoeconômica de turbinas a gás com biocombustíveis.* Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) – Universidade Federal Fluminense, Niterói, RJ. Orientadora: Isabela Florindo Pinheiro.
 
-O código simula um ciclo Brayton simples operando com **biometano**, **etanol hidratado** e **biodiesel** (oleato de metila), calculando desempenho termodinâmico (1ª Lei), destruição de exergia (2ª Lei), custos termoeconômicos e a solução ótima de compromisso via fronteira de Pareto.
+O código simula um ciclo Brayton simples operando com **biometano**, **etanol hidratado** e **biodiesel** (oleato de metila), calculando desempenho termodinâmico, destruição de exergia, custos termoeconômicos e a solução ótima de compromisso via fronteira de Pareto.
 
 ---
 
