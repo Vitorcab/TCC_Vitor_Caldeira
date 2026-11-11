@@ -149,10 +149,6 @@ print(res["T3"], res["Wl"], res["EtaTh"], res["Etaex"])
 ---
 
 
-## Licença
-
-Defina a licença do projeto (por exemplo, MIT) e adicione o arquivo `LICENSE`.
-
 ## Contato
 
 Vítor Caldeira de Andrada Bastos – Engenharia Mecânica, UFF
