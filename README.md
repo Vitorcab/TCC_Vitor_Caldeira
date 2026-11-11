@@ -42,20 +42,6 @@ O código simula um ciclo Brayton simples operando com **biometano**, **etanol h
     ├── maps.py                 # ajuste e consulta dos mapas de desempenho
     ├── thermoeconomics.py      # classe de análise termoeconômica
     └── optimization.py         # varredura, Pareto, Pearson, Random Forest
-```
-
-| Módulo | Código no TCC | Função |
-|---|---|---|
-| `main.py` | A.1 | Orquestra validação, gráficos e análises do Capítulo 5 |
-| `properties.py` | A.2 | Dados dos combustíveis e das espécies |
-| `thermo.py` | A.3 | Propriedades termodinâmicas (Eqs. 3.5–3.7) |
-| `combustion.py` | A.4 | Balanço de combustão (Eq. 3.9) |
-| `brayton.py` | A.5 | Ciclo Brayton, exergia e termoeconomia (Eqs. 3.11–3.31) |
-| `maps.py` | A.6 | Mapas de desempenho (Eqs. 4.5–4.8) |
-| `thermoeconomics.py` | A.7 | Relações de custo exergético |
-| `optimization.py` | A.8 | Otimização multiobjetivo (Eqs. 3.32–3.36) |
-
----
 
 ## Instalação
 
