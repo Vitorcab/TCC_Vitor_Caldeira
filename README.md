@@ -128,14 +128,6 @@ print(res["T3"], res["Wl"], res["EtaTh"], res["Etaex"])
 
 ---
 
-## Trabalhos futuros
-
-- Modelagem de emissões (NOx, CO, hidrocarbonetos não queimados)
-- Regeneração, interresfriamento e ciclos combinados (Rankine/ORC, CHP)
-- Análise econômica completa (CAPEX/OPEX, TIR, VPL)
-
----
-
 ## Referências principais
 
 - ÇENGEL, Y.; BOLES, M. *Termodinâmica*. 7ª ed. Bookman, 2013.
