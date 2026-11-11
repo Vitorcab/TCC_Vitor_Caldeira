@@ -163,22 +163,8 @@ print(res["T3"], res["Wl"], res["EtaTh"], res["Etaex"])
 - KURZKE, J. *How to create a performance model of a gas turbine from a limited amount of information*, 2005.
 - YAWS, C. *Yaws Handbook of Thermodynamic Properties*. McGraw Hill, 1998.
 
-A lista completa está no TCC.
-
 ---
 
-## Como citar
-
-```bibtex
-@thesis{bastos_tcc,
-  author  = {Bastos, Vítor Caldeira de Andrada},
-  title   = {Otimização e análise termoeconômica de turbinas a gás com biocombustíveis},
-  school  = {Universidade Federal Fluminense},
-  address = {Niterói, RJ},
-  type    = {Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica)},
-  year    = {2026}
-}
-```
 
 ## Licença
 
