@@ -63,10 +63,6 @@ Os módulos usam importações diretas (`import brayton`, `import maps`, ...) e 
 
 ### 1. Ajustar os mapas de desempenho (apenas na primeira vez)
 
-```bash
-cd src
-python maps.py
-```
 
 Esse passo lê os `.csv` em `Maps/`, ajusta as correlações por mínimos quadrados e grava os coeficientes em `src/maps_coefficients.txt`, necessário para as demais rotinas. Também imprime RMSE e R² de cada ajuste (Tabela 5 do TCC).
 
