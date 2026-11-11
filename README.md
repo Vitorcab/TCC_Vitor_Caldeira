@@ -43,20 +43,6 @@ O código simula um ciclo Brayton simples operando com **biometano**, **etanol h
     ├── thermoeconomics.py      # classe de análise termoeconômica
     └── optimization.py         # varredura, Pareto, Pearson, Random Forest
 
-## Instalação
-
-Requer **Python 3.9 ou superior**.
-
-```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
-cd <nome-do-repositorio>
-
-python -m venv .venv
-source .venv/bin/activate        # Linux/macOS
-# .venv\Scripts\activate         # Windows
-
-pip install -r requirements.txt
-```
 
 Conteúdo do `requirements.txt`:
 
