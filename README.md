@@ -43,6 +43,7 @@ O código simula um ciclo Brayton simples operando com **biometano**, **etanol h
     ├── thermoeconomics.py      # classe de análise termoeconômica
     └── optimization.py         # varredura, Pareto, Pearson, Random Forest
 
+```
 
 Conteúdo do `requirements.txt`:
 
