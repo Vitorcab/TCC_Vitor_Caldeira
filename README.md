@@ -115,19 +115,6 @@ print(res["T3"], res["Wl"], res["EtaTh"], res["Etaex"])
 
 ---
 
-## Hipóteses e limitações
-
-- Ciclo Brayton **simples** (sem regeneração, interresfriamento ou ciclo de fundo), sem queda de pressão na câmara de combustão e com eficiência de combustão unitária.
-- Gás ideal com $c_p(T)$ polinomial; a hipótese é verificada via $Z$ (desvios < 0,5%).
-- Exergia química do combustível estimada por $ex_{ch} = \gamma \cdot LHV$, com $\gamma \approx 1{,}04$–$1{,}06$.
-- A vazão de ar é determinada pela **linha de máxima eficiência** do compressor, restringindo a varredura a $3{,}36 \le r_p \le 12{,}77$. Fora desse intervalo as funções retornam erro, sem extrapolação.
-- A superfície de eficiência é ajustada apenas a pontos de contornos de isoeficiência; regiões sem contornos digitalizados não foram validadas.
-- Combustão com deficiência de oxigênio ($\alpha < 1$) usa um modelo simplificado e não é o foco do estudo.
-- A análise de custos considera somente parcelas operacionais (preço do combustível); CAPEX/OPEX não estão incluídos.
-- Preços dos combustíveis: ANP (2025, 2026) e FIESP (2025).
-
----
-
 ## Referências principais
 
 - ÇENGEL, Y.; BOLES, M. *Termodinâmica*. 7ª ed. Bookman, 2013.
