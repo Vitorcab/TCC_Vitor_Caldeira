@@ -148,7 +148,7 @@ def run_additional_reference_simulations():
     results = {}
     for fuel, mFuel in (("Ethanol", 19.5 * 2.4 / 100), ("Biomethane", 19.5 * 1.4 / 100)):
         result = brayton.brayton(
-            T1=288.15,
+            T1=298.0,
             Tfuel=390.0,
             LHV=None,
             mFuel=mFuel,
@@ -176,7 +176,7 @@ def run_initial_simulation():
     print("=" * 80)
     
     result = brayton.brayton(
-        T1=288.15,
+        T1=298.0,
         Tfuel=390.0,
         LHV=None,
         mFuel=19.5 * 1.6 / 100,
